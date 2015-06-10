@@ -6,6 +6,6 @@
 4. Adicionar o arquivo usando `git add .`
 5. Commitar as alterações usando `git commit 'descricao'`
 6. Criar o repositorio no github
-7. Adicionar o repositorio ao projeto corrente
+7. Adicionar o repositorio ao projeto corrente usando `git remote add origin https://github.com/leonardosouza/first-push.git`
 8. Publicar para o repositorio usando `git push origin master`
 
