@@ -9,3 +9,7 @@
 7. Adicionar o repositorio ao projeto corrente usando `git remote add origin https://github.com/leonardosouza/first-push.git`
 8. Publicar para o repositorio usando `git push origin master`
 
+# Semantic Version
+
+MAJOR.MINOR.PATCH
+0.1.2
